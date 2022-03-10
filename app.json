@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "6955594",
         "required": true
       },
-      "API_HASH": {
+      "API_HASH": { 
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "1efaacb80c058315e08616933eb96a0d",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,27 +30,27 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5177739611:AAEFr5Uaebm5RVE-isfl7Swzs0jpksnifY4",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Mongo DB URL",
-        "value": "",
+        "value": "mongodb+srv://hermit:<hermit1302.>@cluster0.vwzag.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
         "required": true
       },
-      "MUSIC_BOT_NAME": {
+      "MUSIC_BOT_NAME": { 
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "beast",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1909694735",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQBI03rIUdjBigfJndpQtjIYmOBQXUdQvEM2iY-OojUVTKvTAbzcEf9WjPNsl8AydPKm37Ee_q-kN6FmRzC5QKmBbpEYvRifVz3_InCVQkqOoG9vk69MOJDjAgqP6xFtYAiir_Nter7t2HAE3i4a_YoYx1atGt_abm3Lz140J3Tih6HhV_XuiOVLRT_SbhCUHvo5c7FWI3ADNSgKtIFyYpZuUUqkjMH2RrsxcpqlI3wtwZTeIUZkdUeaeQ0LdkS6cZJ0p1ppSbLt3o43lxlzvfIdFIC14yWo9DLTHASZxcjBawlUX15i_G1zLoN8dPo3gkpfFaZ7XgrcM9l_MxJDH46_AAAAAG0gxEgA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -65,7 +65,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-553007810",
         "required": true
       },
       "UPSTREAM_REPO": {
